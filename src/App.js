@@ -12,6 +12,7 @@ function App() {
   return (
     <CustomProvider theme = 'dark'>
     <div className="App">
+      What Is A Man
       <InputTask></InputTask>
       {/* <TaskList tasks = {tasksList}></TaskList> */}
     </div>
