@@ -1,7 +1,7 @@
 {
   "name": "react-todolist",
   "version": "0.1.0",
-  "homepage":"https://mykz1608.github.io/react-todolist",
+  "homepage": "https://mykz1608.github.io/react-todolist",
   "private": true,
   "dependencies": {
     "@rsuite/icons": "^1.0.2",
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
